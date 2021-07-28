@@ -6,7 +6,6 @@ wpu rencana
   *aaaaaa
   *bbbbbb
 -bbbbbb
--cccccc
 -dddddd
  *ddddd
  *eeeee
